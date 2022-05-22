@@ -1,7 +1,7 @@
-### Hi there 👋
+### Hello, I'm Arvin Emadi 👋
 
-- 🔭 I’m currently working on NLP & RNA-seq 
-- 🌱 I’m currently learning Machine Learning System Design
+- 🔭 I’m currently working on NLP, RNA-seq, and high-resolution Image-Processing
+- 🌱 I’m currently learning ML/AI System Design
 - 👯 I’m looking to collaborate on Kaggle competitions
 - 🤔 I’m looking for help with new NLP ideas
 - 💬 Ask me about any tech related stuff
