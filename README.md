@@ -1,7 +1,7 @@
 ### Hello, I'm Arvin Emadi 👋
 
-- 🔭 I’m currently working on NLP, and high-resolution Image-Processing
-- 🌱 I’m enthusiastic about ML/AI System Design 
+- 🔭 I’m currently working on Cloud Computing, and high-resolution Image-Processing
+- 🌱 I’m enthusiastic about Cloud Based Machine Learning 
 - 👯 I’m looking to collaborate on Kaggle competitions
 - 🤔 I’m looking for help with new NLP ideas and RNA-seq AI ideas
 - 💬 Ask me about any tech related stuff
